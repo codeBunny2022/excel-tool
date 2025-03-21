@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    border: none;
+    text-align: center;
+}
+
+input:focus {
+    outline: none;
+    background-color: lightyellow;
+}
